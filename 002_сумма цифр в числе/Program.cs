@@ -15,4 +15,3 @@ while(num > 0)
 }
 
 Console.WriteLine(sum);
-
